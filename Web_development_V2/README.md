@@ -1,0 +1,2 @@
+This 8-week web development course taught me HTML, CSS, and JavaScript.
+I can now build responsive, interactive, and professional-grade websites, laying a strong foundation for my future in web development.
